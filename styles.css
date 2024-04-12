@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(img/img_01.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+main {
+
+    padding: 60px;
+    
+}
+
+#converter {
+    text-align: center;
+    border: 10px solid #ccc;
+    padding: 20px;
+    border-radius: 20px;
+    border-color: #2E86C1;
+}
+
+footer {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.contenedor{
+    background-image: url(/imguni.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+.contenedor{
+    background-image: url(img/azul.jpeg);
+    background-position: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px;
+}
+.ct_2{
+    background-image: url(img/azul.jpeg);
+    background-position: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px;
+
+}
+.pl{
+    height: 1000px;
+}
+
+img{
+    transition: all 0.5s ease;
+    border-style: solid;
+
+
+}
+
+img:hover{
+    transform: scale(0.9);
+    border-radius: 30px;
+
+}
+
+div img{
+    width: 50%;
+    float: left;
+}
+
+
+
